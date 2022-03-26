@@ -16,3 +16,6 @@ You may also see any lint errors in the console.
 
 Run this command after adding in the configuration values from firebase into the app js file
 
+![image](https://user-images.githubusercontent.com/43722413/160237293-3304688c-b87e-4acc-b1c2-396f20820474.png)
+
+
